@@ -1,6 +1,7 @@
 # Operations Research Studio — Streamlit App
 
 © Fatima Ali — Academic Project
+
 Copying or reuse without permission is prohibited.
 
 This repository contains a Streamlit application for discrete event simulation and queuing calculations.
